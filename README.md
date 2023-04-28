@@ -6,6 +6,7 @@
 - 자율 주행 차량이 상황에 따라 적절하게 주행하기 위해서 여러가지 객체 인식이 요구되는데 본 프로젝트에서는 그 중 신호등과 도로 표지판을 인식해내는 모델을 구축
 ## 프로젝트 수행과정 
 ![image](https://user-images.githubusercontent.com/114974542/235167176-ffc4787a-b078-4681-86f9-be5a132721d8.png)
+![image](https://user-images.githubusercontent.com/114974542/235168529-9b51b11d-d0f7-4189-b842-3e7a7a1b0424.png)
 ![image](https://user-images.githubusercontent.com/114974542/235167562-d574d50f-6041-4df3-aabe-4bf95d225cdc.png)
 ![image](https://user-images.githubusercontent.com/114974542/235167685-9578be25-ed0d-4fed-b6de-5cb3d5ae0781.png)
 ## 한계점 및 추후 발전과제
